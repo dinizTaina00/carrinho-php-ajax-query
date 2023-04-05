@@ -1,0 +1,24 @@
+
+		.text-center{
+			text-align: center;
+		}
+
+		.justify-center{
+			justify-content: center;
+		}
+
+		.produtos{
+			max-width: 1320px;
+		    padding-right: var(--bs-gutter-x,.75rem);
+		    padding-left: var(--bs-gutter-x,.75rem);
+		    margin-right: auto;
+		    margin-left: auto;
+		    display: flex;
+		    flex-wrap: wrap;
+		    margin-top: 80px;
+		    margin-bottom: 100px;
+		}
+
+		.produto-card img{
+			max-width: 250px;
+		}
